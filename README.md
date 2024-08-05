@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer systems engineer specializing in software engineering. I work as a full stack web developer with experience in various programming languages and frameworks. As a cross-platform developer, I specialize in Flutter and React Native. My passion is to create innovative and efficient solutions that optimize user experience and enhance application performance.
+I am a computer systems engineer specialized in software engineering. I work as a full stack web developer and cross-platform developer, with experience in several programming languages ​​and frameworks, working mainly with React and Vue.js for the Frontend and with .Net, Node.js, Laravel and PHP for the Backend. As a cross-platform developer, I specialize in Flutter and React Native. My passion is creating innovative and efficient solutions that optimize the user experience and improve application performance.
 
 
 ## 🌐 Socials:
